@@ -5,6 +5,8 @@ this site is based on room booking for particular hotel.
 user can view gallary of hotel, rooms, rooms details.
 after log in user can book the room and further process.
 
+hotel_management.sql is database file for this site.
+
 there is 3 module 
 (1) user
 (2) manager
